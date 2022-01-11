@@ -1,0 +1,5078 @@
+[
+  {
+    "OriginStationID": "0990",
+    "DesrinationStations" : [
+      {
+          "ID": "1000",
+          "Direction": 0,
+          "Fares": [
+          {
+              "TicketType": "standard",
+              "Price": 40
+          },
+          {
+              "TicketType": "business",
+              "Price": -1
+          },
+          {
+              "TicketType": "0.5",
+              "Price": 20
+          },
+          {
+              "TicketType": "0.65",
+              "Price": 25
+          },
+          {
+              "TicketType": "0.7",
+              "Price": 25
+          },
+          {
+              "TicketType": "0.8",
+              "Price": 30
+          },
+          {
+              "TicketType": "0.85",
+              "Price": 30
+          },
+          {
+              "TicketType": "0.9",
+              "Price": 35
+          }
+          ]
+      },
+      {
+          "ID": "1010",
+          "Direction": 0,
+          "Fares": [
+              {
+              "TicketType": "standard",
+              "Price": 70
+              },
+              {
+              "TicketType": "business",
+              "Price": -1
+              },
+              {
+              "TicketType": "0.5",
+              "Price": 35
+              },
+              {
+              "TicketType": "0.65",
+              "Price": 45
+              },
+              {
+              "TicketType": "0.7",
+              "Price": 45
+              },
+              {
+              "TicketType": "0.8",
+              "Price": 55
+              },
+              {
+              "TicketType": "0.85",
+              "Price": 55
+              },
+              {
+              "TicketType": "0.9",
+              "Price": 60
+              }
+          ]
+      },
+      {
+          "ID": "1020",
+          "Direction": 0,
+          "Fares": [
+            {
+              "TicketType": "standard",
+              "Price": 200
+            },
+            {
+              "TicketType": "business",
+              "Price": 450
+            },
+            {
+              "TicketType": "0.5",
+              "Price": 100
+            },
+            {
+              "TicketType": "0.65",
+              "Price": 130
+            },
+            {
+              "TicketType": "0.7",
+              "Price": 140
+            },
+            {
+              "TicketType": "0.8",
+              "Price": 160
+            },
+            {
+              "TicketType": "0.85",
+              "Price": 170
+            },
+            {
+              "TicketType": "0.9",
+              "Price": 180
+            }
+          ]
+      },
+      {
+          "ID": "1030",
+          "Direction": 0,
+          "Fares": [
+            {
+              "TicketType": "standard",
+              "Price": 330
+            },
+            {
+              "TicketType": "business",
+              "Price": 630
+            },
+            {
+              "TicketType": "0.5",
+              "Price": 165
+            },
+            {
+              "TicketType": "0.65",
+              "Price": 210
+            },
+            {
+              "TicketType": "0.7",
+              "Price": 230
+            },
+            {
+              "TicketType": "0.8",
+              "Price": 260
+            },
+            {
+              "TicketType": "0.85",
+              "Price": 280
+            },
+            {
+              "TicketType": "0.9",
+              "Price": 295
+            }
+          ]
+      },
+      {
+          "ID": "1035",
+          "Direction": 0,
+          "Fares": [
+            {
+              "TicketType": "standard",
+              "Price": 480
+            },
+            {
+              "TicketType": "business",
+              "Price": 825
+            },
+            {
+              "TicketType": "0.5",
+              "Price": 240
+            },
+            {
+              "TicketType": "0.65",
+              "Price": 310
+            },
+            {
+              "TicketType": "0.7",
+              "Price": 335
+            },
+            {
+              "TicketType": "0.8",
+              "Price": 380
+            },
+            {
+              "TicketType": "0.85",
+              "Price": 405
+            },
+            {
+              "TicketType": "0.9",
+              "Price": 430
+            }
+          ]
+      },
+      {
+          "ID": "1040",
+          "Direction": 0,
+          "Fares": [
+            {
+              "TicketType": "standard",
+              "Price": 750
+            },
+            {
+              "TicketType": "business",
+              "Price": 1195
+            },
+            {
+              "TicketType": "0.5",
+              "Price": 375
+            },
+            {
+              "TicketType": "0.65",
+              "Price": 485
+            },
+            {
+              "TicketType": "0.7",
+              "Price": 525
+            },
+            {
+              "TicketType": "0.8",
+              "Price": 600
+            },
+            {
+              "TicketType": "0.85",
+              "Price": 635
+            },
+            {
+              "TicketType": "0.9",
+              "Price": 675
+            }
+          ]
+      },
+      {
+          "ID": "1043",
+          "Direction": 0,
+          "Fares": [
+            {
+              "TicketType": "standard",
+              "Price": 870
+            },
+            {
+              "TicketType": "business",
+              "Price": 1355
+            },
+            {
+              "TicketType": "0.5",
+              "Price": 435
+            },
+            {
+              "TicketType": "0.65",
+              "Price": 565
+            },
+            {
+              "TicketType": "0.7",
+              "Price": 605
+            },
+            {
+              "TicketType": "0.8",
+              "Price": 695
+            },
+            {
+              "TicketType": "0.85",
+              "Price": 735
+            },
+            {
+              "TicketType": "0.9",
+              "Price": 780
+            }
+          ]
+      },
+      {
+          "ID": "1047",
+          "Direction": 0,
+          "Fares": [
+            {
+              "TicketType": "standard",
+              "Price": 970
+            },
+            {
+              "TicketType": "business",
+              "Price": 1490
+            },
+            {
+              "TicketType": "0.5",
+              "Price": 485
+            },
+            {
+              "TicketType": "0.65",
+              "Price": 630
+            },
+            {
+              "TicketType": "0.7",
+              "Price": 675
+            },
+            {
+              "TicketType": "0.8",
+              "Price": 775
+            },
+            {
+              "TicketType": "0.85",
+              "Price": 820
+            },
+            {
+              "TicketType": "0.9",
+              "Price": 870
+            }
+          ]
+      },
+      {
+          "ID": "1050",
+          "Direction": 0,
+          "Fares": [
+            {
+              "TicketType": "standard",
+              "Price": 1120
+            },
+            {
+              "TicketType": "business",
+              "Price": 1690
+            },
+            {
+              "TicketType": "0.5",
+              "Price": 560
+            },
+            {
+              "TicketType": "0.65",
+              "Price": 725
+            },
+            {
+              "TicketType": "0.7",
+              "Price": 780
+            },
+            {
+              "TicketType": "0.8",
+              "Price": 895
+            },
+            {
+              "TicketType": "0.85",
+              "Price": 950
+            },
+            {
+              "TicketType": "0.9",
+              "Price": 1005
+            }
+          ]
+      },
+      {
+          "ID": "1060",
+          "Direction": 0,
+          "Fares": [
+            {
+              "TicketType": "standard",
+              "Price": 1390
+            },
+            {
+              "TicketType": "business",
+              "Price": 2060
+            },
+            {
+              "TicketType": "0.5",
+              "Price": 695
+            },
+            {
+              "TicketType": "0.65",
+              "Price": 900
+            },
+            {
+              "TicketType": "0.7",
+              "Price": 970
+            },
+            {
+              "TicketType": "0.8",
+              "Price": 1110
+            },
+            {
+              "TicketType": "0.85",
+              "Price": 1180
+            },
+            {
+              "TicketType": "0.9",
+              "Price": 1250
+            }
+          ]
+      },
+      {
+          "ID": "1070",
+          "Direction": 0,
+          "Fares": [
+              {
+              "TicketType": "standard",
+              "Price": 1530
+              },
+              {
+              "TicketType": "business",
+              "Price": 2250
+              },
+              {
+              "TicketType": "0.5",
+              "Price": 765
+              },
+              {
+              "TicketType": "0.65",
+              "Price": 990
+              },
+              {
+              "TicketType": "0.7",
+              "Price": 1070
+              },
+              {
+              "TicketType": "0.8",
+              "Price": 1220
+              },
+              {
+              "TicketType": "0.85",
+              "Price": 1300
+              },
+              {
+              "TicketType": "0.9",
+              "Price": 1375
+              }
+          ]
+      }
+    ]     
+  },
+  {
+    "OriginStationID": "1000",
+    "DesrinationStations" : [
+      {
+          "ID": "0990",
+          "Direction": 1,
+          "Fares": [
+          {
+              "TicketType": "standard",
+              "Price": 40
+          },
+          {
+              "TicketType": "business",
+              "Price": -1
+          },
+          {
+              "TicketType": "0.5",
+              "Price": 20
+          },
+          {
+              "TicketType": "0.65",
+              "Price": 25
+          },
+          {
+              "TicketType": "0.7",
+              "Price": 25
+          },
+          {
+              "TicketType": "0.8",
+              "Price": 30
+          },
+          {
+              "TicketType": "0.85",
+              "Price": 30
+          },
+          {
+              "TicketType": "0.9",
+              "Price": 35
+          }
+          ]
+      },
+      {
+          "ID": "1010",
+          "Direction": 0,
+          "Fares": [
+              {
+              "TicketType": "standard",
+              "Price": 40
+              },
+              {
+              "TicketType": "business",
+              "Price": -1
+              },
+              {
+              "TicketType": "0.5",
+              "Price": 20
+              },
+              {
+              "TicketType": "0.65",
+              "Price": 25
+              },
+              {
+              "TicketType": "0.7",
+              "Price": 25
+              },
+              {
+              "TicketType": "0.8",
+              "Price": 30
+              },
+              {
+              "TicketType": "0.85",
+              "Price": 30
+              },
+              {
+              "TicketType": "0.9",
+              "Price": 35
+              }
+          ]
+      },
+      {
+          "ID": "1020",
+          "Direction": 0,
+          "Fares": [
+            {
+              "TicketType": "standard",
+              "Price": 160
+            },
+            {
+              "TicketType": "business",
+              "Price": 395
+            },
+            {
+              "TicketType": "0.5",
+              "Price": 80
+            },
+            {
+              "TicketType": "0.65",
+              "Price": 100
+            },
+            {
+              "TicketType": "0.7",
+              "Price": 110
+            },
+            {
+              "TicketType": "0.8",
+              "Price": 125
+            },
+            {
+              "TicketType": "0.85",
+              "Price": 135
+            },
+            {
+              "TicketType": "0.9",
+              "Price": 140
+            }
+          ]
+      },
+      {
+          "ID": "1030",
+          "Direction": 0,
+          "Fares": [
+            {
+              "TicketType": "standard",
+              "Price": 290
+            },
+            {
+              "TicketType": "business",
+              "Price": 575
+            },
+            {
+              "TicketType": "0.5",
+              "Price": 145
+            },
+            {
+              "TicketType": "0.65",
+              "Price": 185
+            },
+            {
+              "TicketType": "0.7",
+              "Price": 200
+            },
+            {
+              "TicketType": "0.8",
+              "Price": 230
+            },
+            {
+              "TicketType": "0.85",
+              "Price": 245
+            },
+            {
+              "TicketType": "0.9",
+              "Price": 260
+            }
+          ]
+      },
+      {
+          "ID": "1035",
+          "Direction": 0,
+          "Fares": [
+            {
+              "TicketType": "standard",
+              "Price": 430
+            },
+            {
+              "TicketType": "business",
+              "Price": 765
+            },
+            {
+              "TicketType": "0.5",
+              "Price": 215
+            },
+            {
+              "TicketType": "0.65",
+              "Price": 275
+            },
+            {
+              "TicketType": "0.7",
+              "Price": 300
+            },
+            {
+              "TicketType": "0.8",
+              "Price": 340
+            },
+            {
+              "TicketType": "0.85",
+              "Price": 365
+            },
+            {
+              "TicketType": "0.9",
+              "Price": 385
+            }
+          ]
+      },
+      {
+          "ID": "1040",
+          "Direction": 0,
+          "Fares": [
+            {
+              "TicketType": "standard",
+              "Price": 700
+            },
+            {
+              "TicketType": "business",
+              "Price": 1125
+            },
+            {
+              "TicketType": "0.5",
+              "Price": 350
+            },
+            {
+              "TicketType": "0.65",
+              "Price": 455
+            },
+            {
+              "TicketType": "0.7",
+              "Price": 525
+            },
+            {
+              "TicketType": "0.8",
+              "Price": 560
+            },
+            {
+              "TicketType": "0.85",
+              "Price": 595
+            },
+            {
+              "TicketType": "0.9",
+              "Price": 630
+            }
+          ]
+      },
+      {
+          "ID": "1043",
+          "Direction": 0,
+          "Fares": [
+            {
+              "TicketType": "standard",
+              "Price": 820
+            },
+            {
+              "TicketType": "business",
+              "Price": 1285
+            },
+            {
+              "TicketType": "0.5",
+              "Price": 410
+            },
+            {
+              "TicketType": "0.65",
+              "Price": 530
+            },
+            {
+              "TicketType": "0.7",
+              "Price": 570
+            },
+            {
+              "TicketType": "0.8",
+              "Price": 655
+            },
+            {
+              "TicketType": "0.85",
+              "Price": 735
+            },
+            {
+              "TicketType": "0.9",
+              "Price": 780
+            }
+          ]
+      },
+      {
+          "ID": "1047",
+          "Direction": 0,
+          "Fares": [
+            {
+              "TicketType": "standard",
+              "Price": 930
+            },
+            {
+              "TicketType": "business",
+              "Price": 1440
+            },
+            {
+              "TicketType": "0.5",
+              "Price": 465
+            },
+            {
+              "TicketType": "0.65",
+              "Price": 600
+            },
+            {
+              "TicketType": "0.7",
+              "Price": 650
+            },
+            {
+              "TicketType": "0.8",
+              "Price": 740
+            },
+            {
+              "TicketType": "0.85",
+              "Price": 790
+            },
+            {
+              "TicketType": "0.9",
+              "Price": 835
+            }
+          ]
+      },
+      {
+          "ID": "1050",
+          "Direction": 0,
+          "Fares": [
+            {
+              "TicketType": "standard",
+              "Price": 1080
+            },
+            {
+              "TicketType": "business",
+              "Price": 1635
+            },
+            {
+              "TicketType": "0.5",
+              "Price": 540
+            },
+            {
+              "TicketType": "0.65",
+              "Price": 700
+            },
+            {
+              "TicketType": "0.7",
+              "Price": 755
+            },
+            {
+              "TicketType": "0.8",
+              "Price": 860
+            },
+            {
+              "TicketType": "0.85",
+              "Price": 915
+            },
+            {
+              "TicketType": "0.9",
+              "Price": 970
+            }
+          ]
+      },
+      {
+          "ID": "1060",
+          "Direction": 0,
+          "Fares": [
+            {
+              "TicketType": "standard",
+              "Price": 1350
+            },
+            {
+              "TicketType": "business",
+              "Price": 2005
+            },
+            {
+              "TicketType": "0.5",
+              "Price": 675
+            },
+            {
+              "TicketType": "0.65",
+              "Price": 875
+            },
+            {
+              "TicketType": "0.7",
+              "Price": 945
+            },
+            {
+              "TicketType": "0.8",
+              "Price": 1080
+            },
+            {
+              "TicketType": "0.85",
+              "Price": 1145
+            },
+            {
+              "TicketType": "0.9",
+              "Price": 1215
+            }
+          ]
+      },
+      {
+          "ID": "1070",
+          "Direction": 0,
+          "Fares": [
+              {
+              "TicketType": "standard",
+              "Price": 1490
+              },
+              {
+              "TicketType": "business",
+              "Price": 2195
+              },
+              {
+              "TicketType": "0.5",
+              "Price": 745
+              },
+              {
+              "TicketType": "0.65",
+              "Price": 965
+              },
+              {
+              "TicketType": "0.7",
+              "Price": 1040
+              },
+              {
+              "TicketType": "0.8",
+              "Price": 1190
+              },
+              {
+              "TicketType": "0.85",
+              "Price": 1265
+              },
+              {
+              "TicketType": "0.9",
+              "Price": 1340
+              }
+          ]
+      }
+    ]     
+  },
+  {
+    "OriginStationID": "1010",
+    "DesrinationStations" : [
+      {
+          "ID": "0990",
+          "Direction": 1,
+          "Fares": [
+          {
+              "TicketType": "standard",
+              "Price": 70
+          },
+          {
+              "TicketType": "business",
+              "Price": -1
+          },
+          {
+              "TicketType": "0.5",
+              "Price": 35
+          },
+          {
+              "TicketType": "0.65",
+              "Price": 45
+          },
+          {
+              "TicketType": "0.7",
+              "Price": 45
+          },
+          {
+              "TicketType": "0.8",
+              "Price": 55
+          },
+          {
+              "TicketType": "0.85",
+              "Price": 55
+          },
+          {
+              "TicketType": "0.9",
+              "Price": 60
+          }
+          ]
+      },
+      {
+          "ID": "1000",
+          "Direction": 1,
+          "Fares": [
+              {
+              "TicketType": "standard",
+              "Price": 40
+              },
+              {
+              "TicketType": "business",
+              "Price": -1
+              },
+              {
+              "TicketType": "0.5",
+              "Price": 20
+              },
+              {
+              "TicketType": "0.65",
+              "Price": 25
+              },
+              {
+              "TicketType": "0.7",
+              "Price": 25
+              },
+              {
+              "TicketType": "0.8",
+              "Price": 30
+              },
+              {
+              "TicketType": "0.85",
+              "Price": 30
+              },
+              {
+              "TicketType": "0.9",
+              "Price": 35
+              }
+          ]
+      },
+      {
+          "ID": "1020",
+          "Direction": 0,
+          "Fares": [
+            {
+              "TicketType": "standard",
+              "Price": 130
+            },
+            {
+              "TicketType": "business",
+              "Price": 360
+            },
+            {
+              "TicketType": "0.5",
+              "Price": 65
+            },
+            {
+              "TicketType": "0.65",
+              "Price": 80
+            },
+            {
+              "TicketType": "0.7",
+              "Price": 90
+            },
+            {
+              "TicketType": "0.8",
+              "Price": 100
+            },
+            {
+              "TicketType": "0.85",
+              "Price": 110
+            },
+            {
+              "TicketType": "0.9",
+              "Price": 115
+            }
+          ]
+      },
+      {
+          "ID": "1030",
+          "Direction": 0,
+          "Fares": [
+            {
+              "TicketType": "standard",
+              "Price": 260
+            },
+            {
+              "TicketType": "business",
+              "Price": 530
+            },
+            {
+              "TicketType": "0.5",
+              "Price": 130
+            },
+            {
+              "TicketType": "0.65",
+              "Price": 165
+            },
+            {
+              "TicketType": "0.7",
+              "Price": 180
+            },
+            {
+              "TicketType": "0.8",
+              "Price": 205
+            },
+            {
+              "TicketType": "0.85",
+              "Price": 220
+            },
+            {
+              "TicketType": "0.9",
+              "Price": 230
+            }
+          ]
+      },
+      {
+          "ID": "1035",
+          "Direction": 0,
+          "Fares": [
+            {
+              "TicketType": "standard",
+              "Price": 400
+            },
+            {
+              "TicketType": "business",
+              "Price": 720
+            },
+            {
+              "TicketType": "0.5",
+              "Price": 200
+            },
+            {
+              "TicketType": "0.65",
+              "Price": 260
+            },
+            {
+              "TicketType": "0.7",
+              "Price": 280
+            },
+            {
+              "TicketType": "0.8",
+              "Price": 320
+            },
+            {
+              "TicketType": "0.85",
+              "Price": 340
+            },
+            {
+              "TicketType": "0.9",
+              "Price": 360
+            }
+          ]
+      },
+      {
+          "ID": "1040",
+          "Direction": 0,
+          "Fares": [
+            {
+              "TicketType": "standard",
+              "Price": 670
+            },
+            {
+              "TicketType": "business",
+              "Price": 1085
+            },
+            {
+              "TicketType": "0.5",
+              "Price": 335
+            },
+            {
+              "TicketType": "0.65",
+              "Price": 435
+            },
+            {
+              "TicketType": "0.7",
+              "Price": 465
+            },
+            {
+              "TicketType": "0.8",
+              "Price": 535
+            },
+            {
+              "TicketType": "0.85",
+              "Price": 565
+            },
+            {
+              "TicketType": "0.9",
+              "Price": 600
+            }
+          ]
+      },
+      {
+          "ID": "1043",
+          "Direction": 0,
+          "Fares": [
+            {
+              "TicketType": "standard",
+              "Price": 790
+            },
+            {
+              "TicketType": "business",
+              "Price": 1250
+            },
+            {
+              "TicketType": "0.5",
+              "Price": 395
+            },
+            {
+              "TicketType": "0.65",
+              "Price": 510
+            },
+            {
+              "TicketType": "0.7",
+              "Price": 550
+            },
+            {
+              "TicketType": "0.8",
+              "Price": 630
+            },
+            {
+              "TicketType": "0.85",
+              "Price": 670
+            },
+            {
+              "TicketType": "0.9",
+              "Price": 710
+            }
+          ]
+      },
+      {
+          "ID": "1047",
+          "Direction": 0,
+          "Fares": [
+            {
+              "TicketType": "standard",
+              "Price": 900
+            },
+            {
+              "TicketType": "business",
+              "Price": 1395
+            },
+            {
+              "TicketType": "0.5",
+              "Price": 450
+            },
+            {
+              "TicketType": "0.65",
+              "Price": 585
+            },
+            {
+              "TicketType": "0.7",
+              "Price": 630
+            },
+            {
+              "TicketType": "0.8",
+              "Price": 720
+            },
+            {
+              "TicketType": "0.85",
+              "Price": 765
+            },
+            {
+              "TicketType": "0.9",
+              "Price": 810
+            }
+          ]
+      },
+      {
+          "ID": "1050",
+          "Direction": 0,
+          "Fares": [
+            {
+              "TicketType": "standard",
+              "Price": 1050
+            },
+            {
+              "TicketType": "business",
+              "Price": 1600
+            },
+            {
+              "TicketType": "0.5",
+              "Price": 525
+            },
+            {
+              "TicketType": "0.65",
+              "Price": 680
+            },
+            {
+              "TicketType": "0.7",
+              "Price": 735
+            },
+            {
+              "TicketType": "0.8",
+              "Price": 840
+            },
+            {
+              "TicketType": "0.85",
+              "Price": 890
+            },
+            {
+              "TicketType": "0.9",
+              "Price": 945
+            }
+          ]
+      },
+      {
+          "ID": "1060",
+          "Direction": 0,
+          "Fares": [
+            {
+              "TicketType": "standard",
+              "Price": 1320
+            },
+            {
+              "TicketType": "business",
+              "Price": 1960
+            },
+            {
+              "TicketType": "0.5",
+              "Price": 660
+            },
+            {
+              "TicketType": "0.65",
+              "Price": 855
+            },
+            {
+              "TicketType": "0.7",
+              "Price": 920
+            },
+            {
+              "TicketType": "0.8",
+              "Price": 1055
+            },
+            {
+              "TicketType": "0.85",
+              "Price": 1120
+            },
+            {
+              "TicketType": "0.9",
+              "Price": 1185
+            }
+          ]
+      },
+      {
+          "ID": "1070",
+          "Direction": 0,
+          "Fares": [
+              {
+              "TicketType": "standard",
+              "Price": 1460
+              },
+              {
+              "TicketType": "business",
+              "Price": 2150
+              },
+              {
+              "TicketType": "0.5",
+              "Price": 730
+              },
+              {
+              "TicketType": "0.65",
+              "Price": 945
+              },
+              {
+              "TicketType": "0.7",
+              "Price": 1020
+              },
+              {
+              "TicketType": "0.8",
+              "Price": 1165
+              },
+              {
+              "TicketType": "0.85",
+              "Price": 1240
+              },
+              {
+              "TicketType": "0.9",
+              "Price": 1310
+              }
+          ]
+      }
+    ]     
+  },
+  {
+    "OriginStationID": "1020",
+    "DesrinationStations" : [
+      {
+        "ID": "0990",
+        "Direction": 1,
+        "Fares": [
+          {
+            "TicketType": "standard",
+            "Price": 200
+          },
+          {
+            "TicketType": "business",
+            "Price": 450
+          },
+          {
+            "TicketType": "0.5",
+            "Price": 100
+          },
+          {
+            "TicketType": "0.65",
+            "Price": 130
+          },
+          {
+            "TicketType": "0.7",
+            "Price": 140
+          },
+          {
+            "TicketType": "0.8",
+            "Price": 160
+          },
+          {
+            "TicketType": "0.85",
+            "Price": 170
+          },
+          {
+            "TicketType": "0.9",
+            "Price": 180
+          }
+        ]
+      },
+      {
+        "ID": "1000",
+        "Direction": 1,
+        "Fares": [
+          {
+            "TicketType": "standard",
+            "Price": 160
+          },
+          {
+            "TicketType": "business",
+            "Price": 395
+          },
+          {
+            "TicketType": "0.5",
+            "Price": 80
+          },
+          {
+            "TicketType": "0.65",
+            "Price": 100
+          },
+          {
+            "TicketType": "0.7",
+            "Price": 110
+          },
+          {
+            "TicketType": "0.8",
+            "Price": 125
+          },
+          {
+            "TicketType": "0.85",
+            "Price": 135
+          },
+          {
+            "TicketType": "0.9",
+            "Price": 140
+          }
+        ]
+      },
+      {
+        "ID": "1010",
+        "Direction": 1,
+        "Fares": [
+          {
+            "TicketType": "standard",
+            "Price": 130
+          },
+          {
+            "TicketType": "business",
+            "Price": 360
+          },
+          {
+            "TicketType": "0.5",
+            "Price": 65
+          },
+          {
+            "TicketType": "0.65",
+            "Price": 80
+          },
+          {
+            "TicketType": "0.7",
+            "Price": 90
+          },
+          {
+            "TicketType": "0.8",
+            "Price": 100
+          },
+          {
+            "TicketType": "0.85",
+            "Price": 110
+          },
+          {
+            "TicketType": "0.9",
+            "Price": 115
+          }
+        ]
+      },
+      {
+        "ID": "1030",
+        "Direction": 0,
+        "Fares": [
+          {
+            "TicketType": "standard",
+            "Price": 130
+          },
+          {
+            "TicketType": "business",
+            "Price": 360
+          },
+          {
+            "TicketType": "0.5",
+            "Price": 65
+          },
+          {
+            "TicketType": "0.65",
+            "Price": 80
+          },
+          {
+            "TicketType": "0.7",
+            "Price": 90
+          },
+          {
+            "TicketType": "0.8",
+            "Price": 100
+          },
+          {
+            "TicketType": "0.85",
+            "Price": 110
+          },
+          {
+            "TicketType": "0.9",
+            "Price": 115
+          }
+        ]
+      },
+      {
+        "ID": "1035",
+        "Direction": 0,
+        "Fares": [
+          {
+            "TicketType": "standard",
+            "Price": 280
+          },
+          {
+            "TicketType": "business",
+            "Price": 555
+          },
+          {
+            "TicketType": "0.5",
+            "Price": 140
+          },
+          {
+            "TicketType": "0.65",
+            "Price": 180
+          },
+          {
+            "TicketType": "0.7",
+            "Price": 195
+          },
+          {
+            "TicketType": "0.8",
+            "Price": 220
+          },
+          {
+            "TicketType": "0.85",
+            "Price": 235
+          },
+          {
+            "TicketType": "0.9",
+            "Price": 250
+          }
+        ]
+      },
+      {
+        "ID": "1040",
+        "Direction": 0,
+        "Fares": [
+          {
+            "TicketType": "standard",
+            "Price": 540
+          },
+          {
+            "TicketType": "business",
+            "Price": 905
+          },
+          {
+            "TicketType": "0.5",
+            "Price": 270
+          },
+          {
+            "TicketType": "0.65",
+            "Price": 350
+          },
+          {
+            "TicketType": "0.7",
+            "Price": 375
+          },
+          {
+            "TicketType": "0.8",
+            "Price": 430
+          },
+          {
+            "TicketType": "0.85",
+            "Price": 455
+          },
+          {
+            "TicketType": "0.9",
+            "Price": 485
+          }
+        ]
+      },
+      {
+        "ID": "1043",
+        "Direction": 0,
+        "Fares": [
+          {
+            "TicketType": "standard",
+            "Price": 670
+          },
+          {
+            "TicketType": "business",
+            "Price": 1085
+          },
+          {
+            "TicketType": "0.5",
+            "Price": 335
+          },
+          {
+            "TicketType": "0.65",
+            "Price": 435
+          },
+          {
+            "TicketType": "0.7",
+            "Price": 465
+          },
+          {
+            "TicketType": "0.8",
+            "Price": 535
+          },
+          {
+            "TicketType": "0.85",
+            "Price": 565
+          },
+          {
+            "TicketType": "0.9",
+            "Price": 600
+          }
+        ]
+      },
+      {
+        "ID": "1047",
+        "Direction": 0,
+        "Fares": [
+          {
+            "TicketType": "standard",
+            "Price": 780
+          },
+          {
+            "TicketType": "business",
+            "Price": 1230
+          },
+          {
+            "TicketType": "0.5",
+            "Price": 390
+          },
+          {
+            "TicketType": "0.65",
+            "Price": 505
+          },
+          {
+            "TicketType": "0.7",
+            "Price": 545
+          },
+          {
+            "TicketType": "0.8",
+            "Price": 620
+          },
+          {
+            "TicketType": "0.85",
+            "Price": 660
+          },
+          {
+            "TicketType": "0.9",
+            "Price": 700
+          }
+        ]
+      },
+      {
+        "ID": "1050",
+        "Direction": 0,
+        "Fares": [
+          {
+            "TicketType": "standard",
+            "Price": 920
+          },
+          {
+            "TicketType": "business",
+            "Price": 1420
+          },
+          {
+            "TicketType": "0.5",
+            "Price": 460
+          },
+          {
+            "TicketType": "0.65",
+            "Price": 595
+          },
+          {
+            "TicketType": "0.7",
+            "Price": 640
+          },
+          {
+            "TicketType": "0.8",
+            "Price": 735
+          },
+          {
+            "TicketType": "0.85",
+            "Price": 780
+          },
+          {
+            "TicketType": "0.9",
+            "Price": 825
+          }
+        ]
+      },
+      {
+        "ID": "1060",
+        "Direction": 0,
+        "Fares": [
+          {
+            "TicketType": "standard",
+            "Price": 1190
+          },
+          {
+            "TicketType": "business",
+            "Price": 1790
+          },
+          {
+            "TicketType": "0.5",
+            "Price": 595
+          },
+          {
+            "TicketType": "0.65",
+            "Price": 770
+          },
+          {
+            "TicketType": "0.7",
+            "Price": 830
+          },
+          {
+            "TicketType": "0.8",
+            "Price": 950
+          },
+          {
+            "TicketType": "0.85",
+            "Price": 1010
+          },
+          {
+            "TicketType": "0.9",
+            "Price": 1070
+          }
+        ]
+      },
+      {
+        "ID": "1070",
+        "Direction": 0,
+        "Fares": [
+            {
+            "TicketType": "standard",
+            "Price": 1330
+            },
+            {
+            "TicketType": "business",
+            "Price": 1980
+            },
+            {
+            "TicketType": "0.5",
+            "Price": 665
+            },
+            {
+            "TicketType": "0.65",
+            "Price": 860
+            },
+            {
+            "TicketType": "0.7",
+            "Price": 930
+            },
+            {
+            "TicketType": "0.8",
+            "Price": 1060
+            },
+            {
+            "TicketType": "0.85",
+            "Price": 1130
+            },
+            {
+            "TicketType": "0.9",
+            "Price": 1195
+            }
+        ]
+      }
+    ]     
+  },
+  {
+    "OriginStationID": "1030",
+    "DesrinationStations" : [
+      {
+        "ID": "0990",
+        "Direction": 1,
+        "Fares": [
+          {
+            "TicketType": "standard",
+            "Price": 330
+          },
+          {
+            "TicketType": "business",
+            "Price": 630
+          },
+          {
+            "TicketType": "0.5",
+            "Price": 165
+          },
+          {
+            "TicketType": "0.65",
+            "Price": 210
+          },
+          {
+            "TicketType": "0.7",
+            "Price": 230
+          },
+          {
+            "TicketType": "0.8",
+            "Price": 260
+          },
+          {
+            "TicketType": "0.85",
+            "Price": 280
+          },
+          {
+            "TicketType": "0.9",
+            "Price": 295
+          }
+        ]
+      },
+      {
+        "ID": "1000",
+        "Direction": 1,
+        "Fares": [
+          {
+            "TicketType": "standard",
+            "Price": 290
+          },
+          {
+            "TicketType": "business",
+            "Price": 575
+          },
+          {
+            "TicketType": "0.5",
+            "Price": 145
+          },
+          {
+            "TicketType": "0.65",
+            "Price": 185
+          },
+          {
+            "TicketType": "0.7",
+            "Price": 200
+          },
+          {
+            "TicketType": "0.8",
+            "Price": 230
+          },
+          {
+            "TicketType": "0.85",
+            "Price": 245
+          },
+          {
+            "TicketType": "0.9",
+            "Price": 260
+          }
+        ]
+      },
+      {
+        "ID": "1010",
+        "Direction": 1,
+        "Fares": [
+          {
+            "TicketType": "standard",
+            "Price": 260
+          },
+          {
+            "TicketType": "business",
+            "Price": 530
+          },
+          {
+            "TicketType": "0.5",
+            "Price": 130
+          },
+          {
+            "TicketType": "0.65",
+            "Price": 165
+          },
+          {
+            "TicketType": "0.7",
+            "Price": 180
+          },
+          {
+            "TicketType": "0.8",
+            "Price": 205
+          },
+          {
+            "TicketType": "0.85",
+            "Price": 220
+          },
+          {
+            "TicketType": "0.9",
+            "Price": 230
+          }
+        ]
+      },
+      {
+        "ID": "1020",
+        "Direction": 1,
+        "Fares": [
+          {
+            "TicketType": "standard",
+            "Price": 130
+          },
+          {
+            "TicketType": "business",
+            "Price": 360
+          },
+          {
+            "TicketType": "0.5",
+            "Price": 65
+          },
+          {
+            "TicketType": "0.65",
+            "Price": 80
+          },
+          {
+            "TicketType": "0.7",
+            "Price": 90
+          },
+          {
+            "TicketType": "0.8",
+            "Price": 100
+          },
+          {
+            "TicketType": "0.85",
+            "Price": 110
+          },
+          {
+            "TicketType": "0.9",
+            "Price": 115
+          }
+        ]
+      },
+      {
+        "ID": "1035",
+        "Direction": 0,
+        "Fares": [
+          {
+            "TicketType": "standard",
+            "Price": 140
+          },
+          {
+            "TicketType": "business",
+            "Price": 365
+          },
+          {
+            "TicketType": "0.5",
+            "Price": 70
+          },
+          {
+            "TicketType": "0.65",
+            "Price": 90
+          },
+          {
+            "TicketType": "0.7",
+            "Price": 95
+          },
+          {
+            "TicketType": "0.8",
+            "Price": 110
+          },
+          {
+            "TicketType": "0.85",
+            "Price": 115
+          },
+          {
+            "TicketType": "0.9",
+            "Price": 125
+          }
+        ]
+      },
+      {
+        "ID": "1040",
+        "Direction": 0,
+        "Fares": [
+          {
+            "TicketType": "standard",
+            "Price": 410
+          },
+          {
+            "TicketType": "business",
+            "Price": 735
+          },
+          {
+            "TicketType": "0.5",
+            "Price": 205
+          },
+          {
+            "TicketType": "0.65",
+            "Price": 265
+          },
+          {
+            "TicketType": "0.7",
+            "Price": 285
+          },
+          {
+            "TicketType": "0.8",
+            "Price": 325
+          },
+          {
+            "TicketType": "0.85",
+            "Price": 345
+          },
+          {
+            "TicketType": "0.9",
+            "Price": 365
+          }
+        ]
+      },
+      {
+        "ID": "1043",
+        "Direction": 0,
+        "Fares": [
+          {
+            "TicketType": "standard",
+            "Price": 540
+          },
+          {
+            "TicketType": "business",
+            "Price": 905
+          },
+          {
+            "TicketType": "0.5",
+            "Price": 270
+          },
+          {
+            "TicketType": "0.65",
+            "Price": 350
+          },
+          {
+            "TicketType": "0.7",
+            "Price": 375
+          },
+          {
+            "TicketType": "0.8",
+            "Price": 430
+          },
+          {
+            "TicketType": "0.85",
+            "Price": 455
+          },
+          {
+            "TicketType": "0.9",
+            "Price": 485
+          }
+        ]
+      },
+      {
+        "ID": "1047",
+        "Direction": 0,
+        "Fares": [
+          {
+            "TicketType": "standard",
+            "Price": 640
+          },
+          {
+            "TicketType": "business",
+            "Price": 1040
+          },
+          {
+            "TicketType": "0.5",
+            "Price": 320
+          },
+          {
+            "TicketType": "0.65",
+            "Price": 415
+          },
+          {
+            "TicketType": "0.7",
+            "Price": 445
+          },
+          {
+            "TicketType": "0.8",
+            "Price": 510
+          },
+          {
+            "TicketType": "0.85",
+            "Price": 540
+          },
+          {
+            "TicketType": "0.9",
+            "Price": 575
+          }
+        ]
+      },
+      {
+        "ID": "1050",
+        "Direction": 0,
+        "Fares": [
+          {
+            "TicketType": "standard",
+            "Price": 790
+          },
+          {
+            "TicketType": "business",
+            "Price": 1250
+          },
+          {
+            "TicketType": "0.5",
+            "Price": 395
+          },
+          {
+            "TicketType": "0.65",
+            "Price": 510
+          },
+          {
+            "TicketType": "0.7",
+            "Price": 550
+          },
+          {
+            "TicketType": "0.8",
+            "Price": 630
+          },
+          {
+            "TicketType": "0.85",
+            "Price": 670
+          },
+          {
+            "TicketType": "0.9",
+            "Price": 710
+          }
+        ]
+      },
+      {
+        "ID": "1060",
+        "Direction": 0,
+        "Fares": [
+          {
+            "TicketType": "standard",
+            "Price": 1060
+          },
+          {
+            "TicketType": "business",
+            "Price": 1610
+          },
+          {
+            "TicketType": "0.5",
+            "Price": 530
+          },
+          {
+            "TicketType": "0.65",
+            "Price": 685
+          },
+          {
+            "TicketType": "0.7",
+            "Price": 740
+          },
+          {
+            "TicketType": "0.8",
+            "Price": 845
+          },
+          {
+            "TicketType": "0.85",
+            "Price": 900
+          },
+          {
+            "TicketType": "0.9",
+            "Price": 950
+          }
+        ]
+      },
+      {
+        "ID": "1070",
+        "Direction": 0,
+        "Fares": [
+            {
+            "TicketType": "standard",
+            "Price": 1200
+            },
+            {
+            "TicketType": "business",
+            "Price": 1800
+            },
+            {
+            "TicketType": "0.5",
+            "Price": 600
+            },
+            {
+            "TicketType": "0.65",
+            "Price": 780
+            },
+            {
+            "TicketType": "0.7",
+            "Price": 840
+            },
+            {
+            "TicketType": "0.8",
+            "Price": 960
+            },
+            {
+            "TicketType": "0.85",
+            "Price": 1020
+            },
+            {
+            "TicketType": "0.9",
+            "Price": 1080
+            }
+        ]
+      }
+    ]     
+  },
+  {
+    "OriginStationID": "1035",
+    "DesrinationStations" : [
+      {
+        "ID": "0990",
+        "Direction": 1,
+        "Fares": [
+          {
+            "TicketType": "standard",
+            "Price": 480
+          },
+          {
+            "TicketType": "business",
+            "Price": 825
+          },
+          {
+            "TicketType": "0.5",
+            "Price": 240
+          },
+          {
+            "TicketType": "0.65",
+            "Price": 310
+          },
+          {
+            "TicketType": "0.7",
+            "Price": 335
+          },
+          {
+            "TicketType": "0.8",
+            "Price": 380
+          },
+          {
+            "TicketType": "0.85",
+            "Price": 405
+          },
+          {
+            "TicketType": "0.9",
+            "Price": 430
+          }
+        ]
+      },
+      {
+        "ID": "1000",
+        "Direction": 1,
+        "Fares": [
+          {
+            "TicketType": "standard",
+            "Price": 430
+          },
+          {
+            "TicketType": "business",
+            "Price": 765
+          },
+          {
+            "TicketType": "0.5",
+            "Price": 215
+          },
+          {
+            "TicketType": "0.65",
+            "Price": 275
+          },
+          {
+            "TicketType": "0.7",
+            "Price": 300
+          },
+          {
+            "TicketType": "0.8",
+            "Price": 340
+          },
+          {
+            "TicketType": "0.85",
+            "Price": 365
+          },
+          {
+            "TicketType": "0.9",
+            "Price": 385
+          }
+        ]
+      },
+      {
+        "ID": "1010",
+        "Direction": 1,
+        "Fares": [
+          {
+            "TicketType": "standard",
+            "Price": 400
+          },
+          {
+            "TicketType": "business",
+            "Price": 720
+          },
+          {
+            "TicketType": "0.5",
+            "Price": 200
+          },
+          {
+            "TicketType": "0.65",
+            "Price": 260
+          },
+          {
+            "TicketType": "0.7",
+            "Price": 280
+          },
+          {
+            "TicketType": "0.8",
+            "Price": 320
+          },
+          {
+            "TicketType": "0.85",
+            "Price": 340
+          },
+          {
+            "TicketType": "0.9",
+            "Price": 360
+          }
+        ]
+      },
+      {
+        "ID": "1020",
+        "Direction": 1,
+        "Fares": [
+          {
+            "TicketType": "standard",
+            "Price": 280
+          },
+          {
+            "TicketType": "business",
+            "Price": 555
+          },
+          {
+            "TicketType": "0.5",
+            "Price": 140
+          },
+          {
+            "TicketType": "0.65",
+            "Price": 180
+          },
+          {
+            "TicketType": "0.7",
+            "Price": 195
+          },
+          {
+            "TicketType": "0.8",
+            "Price": 220
+          },
+          {
+            "TicketType": "0.85",
+            "Price": 235
+          },
+          {
+            "TicketType": "0.9",
+            "Price": 250
+          }
+        ]
+      },
+      {
+        "ID": "1030",
+        "Direction": 1,
+        "Fares": [
+          {
+            "TicketType": "standard",
+            "Price": 140
+          },
+          {
+            "TicketType": "business",
+            "Price": 365
+          },
+          {
+            "TicketType": "0.5",
+            "Price": 70
+          },
+          {
+            "TicketType": "0.65",
+            "Price": 90
+          },
+          {
+            "TicketType": "0.7",
+            "Price": 95
+          },
+          {
+            "TicketType": "0.8",
+            "Price": 110
+          },
+          {
+            "TicketType": "0.85",
+            "Price": 115
+          },
+          {
+            "TicketType": "0.9",
+            "Price": 125
+          }
+        ]
+      },
+      {
+        "ID": "1040",
+        "Direction": 0,
+        "Fares": [
+          {
+            "TicketType": "standard",
+            "Price": 270
+          },
+          {
+            "TicketType": "business",
+            "Price": 545
+          },
+          {
+            "TicketType": "0.5",
+            "Price": 135
+          },
+          {
+            "TicketType": "0.65",
+            "Price": 175
+          },
+          {
+            "TicketType": "0.7",
+            "Price": 185
+          },
+          {
+            "TicketType": "0.8",
+            "Price": 215
+          },
+          {
+            "TicketType": "0.85",
+            "Price": 225
+          },
+          {
+            "TicketType": "0.9",
+            "Price": 240
+          }
+        ]
+      },
+      {
+        "ID": "1043",
+        "Direction": 0,
+        "Fares": [
+          {
+            "TicketType": "standard",
+            "Price": 390
+          },
+          {
+            "TicketType": "business",
+            "Price": 710
+          },
+          {
+            "TicketType": "0.5",
+            "Price": 195
+          },
+          {
+            "TicketType": "0.65",
+            "Price": 250
+          },
+          {
+            "TicketType": "0.7",
+            "Price": 270
+          },
+          {
+            "TicketType": "0.8",
+            "Price": 310
+          },
+          {
+            "TicketType": "0.85",
+            "Price": 330
+          },
+          {
+            "TicketType": "0.9",
+            "Price": 350
+          }
+        ]
+      },
+      {
+        "ID": "1047",
+        "Direction": 0,
+        "Fares": [
+          {
+            "TicketType": "standard",
+            "Price": 500
+          },
+          {
+            "TicketType": "business",
+            "Price": 855
+          },
+          {
+            "TicketType": "0.5",
+            "Price": 250
+          },
+          {
+            "TicketType": "0.65",
+            "Price": 325
+          },
+          {
+            "TicketType": "0.7",
+            "Price": 350
+          },
+          {
+            "TicketType": "0.8",
+            "Price": 400
+          },
+          {
+            "TicketType": "0.85",
+            "Price": 425
+          },
+          {
+            "TicketType": "0.9",
+            "Price": 450
+          }
+        ]
+      },
+      {
+        "ID": "1050",
+        "Direction": 0,
+        "Fares": [
+          {
+            "TicketType": "standard",
+            "Price": 640
+          },
+          {
+            "TicketType": "business",
+            "Price": 1040
+          },
+          {
+            "TicketType": "0.5",
+            "Price": 320
+          },
+          {
+            "TicketType": "0.65",
+            "Price": 415
+          },
+          {
+            "TicketType": "0.7",
+            "Price": 445
+          },
+          {
+            "TicketType": "0.8",
+            "Price": 510
+          },
+          {
+            "TicketType": "0.85",
+            "Price": 540
+          },
+          {
+            "TicketType": "0.9",
+            "Price": 575
+          }
+        ]
+      },
+      {
+        "ID": "1060",
+        "Direction": 0,
+        "Fares": [
+          {
+            "TicketType": "standard",
+            "Price": 920
+          },
+          {
+            "TicketType": "business",
+            "Price": 1420
+          },
+          {
+            "TicketType": "0.5",
+            "Price": 460
+          },
+          {
+            "TicketType": "0.65",
+            "Price": 595
+          },
+          {
+            "TicketType": "0.7",
+            "Price": 640
+          },
+          {
+            "TicketType": "0.8",
+            "Price": 735
+          },
+          {
+            "TicketType": "0.85",
+            "Price": 780
+          },
+          {
+            "TicketType": "0.9",
+            "Price": 825
+          }
+        ]
+      },
+      {
+        "ID": "1070",
+        "Direction": 0,
+        "Fares": [
+            {
+            "TicketType": "standard",
+            "Price": 1060
+            },
+            {
+            "TicketType": "business",
+            "Price": 1610
+            },
+            {
+            "TicketType": "0.5",
+            "Price": 530
+            },
+            {
+            "TicketType": "0.65",
+            "Price": 685
+            },
+            {
+            "TicketType": "0.7",
+            "Price": 740
+            },
+            {
+            "TicketType": "0.8",
+            "Price": 845
+            },
+            {
+            "TicketType": "0.85",
+            "Price": 900
+            },
+            {
+            "TicketType": "0.9",
+            "Price": 950
+            }
+        ]
+      }
+    ]     
+  },
+  {
+    "OriginStationID": "1040",
+    "DesrinationStations" : [
+      {
+        "ID": "0990",
+        "Direction": 1,
+        "Fares": [
+          {
+            "TicketType": "standard",
+            "Price": 750
+          },
+          {
+            "TicketType": "business",
+            "Price": 1195
+          },
+          {
+            "TicketType": "0.5",
+            "Price": 375
+          },
+          {
+            "TicketType": "0.65",
+            "Price": 485
+          },
+          {
+            "TicketType": "0.7",
+            "Price": 525
+          },
+          {
+            "TicketType": "0.8",
+            "Price": 600
+          },
+          {
+            "TicketType": "0.85",
+            "Price": 635
+          },
+          {
+            "TicketType": "0.9",
+            "Price": 675
+          }
+        ]
+      },
+      {
+        "ID": "1000",
+        "Direction": 1,
+        "Fares": [
+          {
+            "TicketType": "standard",
+            "Price": 700
+          },
+          {
+            "TicketType": "business",
+            "Price": 1125
+          },
+          {
+            "TicketType": "0.5",
+            "Price": 350
+          },
+          {
+            "TicketType": "0.65",
+            "Price": 455
+          },
+          {
+            "TicketType": "0.7",
+            "Price": 525
+          },
+          {
+            "TicketType": "0.8",
+            "Price": 560
+          },
+          {
+            "TicketType": "0.85",
+            "Price": 595
+          },
+          {
+            "TicketType": "0.9",
+            "Price": 630
+          }
+        ]
+      },
+      {
+        "ID": "1010",
+        "Direction": 1,
+        "Fares": [
+          {
+            "TicketType": "standard",
+            "Price": 670
+          },
+          {
+            "TicketType": "business",
+            "Price": 1085
+          },
+          {
+            "TicketType": "0.5",
+            "Price": 335
+          },
+          {
+            "TicketType": "0.65",
+            "Price": 435
+          },
+          {
+            "TicketType": "0.7",
+            "Price": 465
+          },
+          {
+            "TicketType": "0.8",
+            "Price": 535
+          },
+          {
+            "TicketType": "0.85",
+            "Price": 565
+          },
+          {
+            "TicketType": "0.9",
+            "Price": 600
+          }
+        ]
+      },
+      {
+        "ID": "1020",
+        "Direction": 1,
+        "Fares": [
+          {
+            "TicketType": "standard",
+            "Price": 540
+          },
+          {
+            "TicketType": "business",
+            "Price": 905
+          },
+          {
+            "TicketType": "0.5",
+            "Price": 270
+          },
+          {
+            "TicketType": "0.65",
+            "Price": 350
+          },
+          {
+            "TicketType": "0.7",
+            "Price": 375
+          },
+          {
+            "TicketType": "0.8",
+            "Price": 430
+          },
+          {
+            "TicketType": "0.85",
+            "Price": 455
+          },
+          {
+            "TicketType": "0.9",
+            "Price": 485
+          }
+        ]
+      },
+      {
+        "ID": "1030",
+        "Direction": 1,
+        "Fares": [
+          {
+            "TicketType": "standard",
+            "Price": 410
+          },
+          {
+            "TicketType": "business",
+            "Price": 735
+          },
+          {
+            "TicketType": "0.5",
+            "Price": 205
+          },
+          {
+            "TicketType": "0.65",
+            "Price": 265
+          },
+          {
+            "TicketType": "0.7",
+            "Price": 285
+          },
+          {
+            "TicketType": "0.8",
+            "Price": 325
+          },
+          {
+            "TicketType": "0.85",
+            "Price": 345
+          },
+          {
+            "TicketType": "0.9",
+            "Price": 365
+          }
+        ]
+      },
+      {
+          "ID": "1035",
+          "Direction": 1,
+          "Fares": [
+            {
+              "TicketType": "standard",
+              "Price": 270
+            },
+            {
+              "TicketType": "business",
+              "Price": 545
+            },
+            {
+              "TicketType": "0.5",
+              "Price": 135
+            },
+            {
+              "TicketType": "0.65",
+              "Price": 175
+            },
+            {
+              "TicketType": "0.7",
+              "Price": 185
+            },
+            {
+              "TicketType": "0.8",
+              "Price": 215
+            },
+            {
+              "TicketType": "0.85",
+              "Price": 225
+            },
+            {
+              "TicketType": "0.9",
+              "Price": 240
+            }
+          ]
+      },
+      {
+          "ID": "1043",
+          "Direction": 0,
+          "Fares": [
+            {
+              "TicketType": "standard",
+              "Price": 130
+            },
+            {
+              "TicketType": "business",
+              "Price": 360
+            },
+            {
+              "TicketType": "0.5",
+              "Price": 65
+            },
+            {
+              "TicketType": "0.65",
+              "Price": 80
+            },
+            {
+              "TicketType": "0.7",
+              "Price": 90
+            },
+            {
+              "TicketType": "0.8",
+              "Price": 100
+            },
+            {
+              "TicketType": "0.85",
+              "Price": 110
+            },
+            {
+              "TicketType": "0.9",
+              "Price": 115
+            }
+          ]
+      },
+      {
+          "ID": "1047",
+          "Direction": 0,
+          "Fares": [
+            {
+              "TicketType": "standard",
+              "Price": 230
+            },
+            {
+              "TicketType": "business",
+              "Price": 495
+            },
+            {
+              "TicketType": "0.5",
+              "Price": 115
+            },
+            {
+              "TicketType": "0.65",
+              "Price": 145
+            },
+            {
+              "TicketType": "0.7",
+              "Price": 160
+            },
+            {
+              "TicketType": "0.8",
+              "Price": 180
+            },
+            {
+              "TicketType": "0.85",
+              "Price": 195
+            },
+            {
+              "TicketType": "0.9",
+              "Price": 205
+            }
+          ]
+      },
+      {
+          "ID": "1050",
+          "Direction": 0,
+          "Fares": [
+            {
+              "TicketType": "standard",
+              "Price": 380
+            },
+            {
+              "TicketType": "business",
+              "Price": 690
+            },
+            {
+              "TicketType": "0.5",
+              "Price": 190
+            },
+            {
+              "TicketType": "0.65",
+              "Price": 245
+            },
+            {
+              "TicketType": "0.7",
+              "Price": 265
+            },
+            {
+              "TicketType": "0.8",
+              "Price": 300
+            },
+            {
+              "TicketType": "0.85",
+              "Price": 320
+            },
+            {
+              "TicketType": "0.9",
+              "Price": 340
+            }
+          ]
+      },
+      {
+          "ID": "1060",
+          "Direction": 0,
+          "Fares": [
+            {
+              "TicketType": "standard",
+              "Price": 650
+            },
+            {
+              "TicketType": "business",
+              "Price": 1060
+            },
+            {
+              "TicketType": "0.5",
+              "Price": 325
+            },
+            {
+              "TicketType": "0.65",
+              "Price": 420
+            },
+            {
+              "TicketType": "0.7",
+              "Price": 455
+            },
+            {
+              "TicketType": "0.8",
+              "Price": 520
+            },
+            {
+              "TicketType": "0.85",
+              "Price": 550
+            },
+            {
+              "TicketType": "0.9",
+              "Price": 585
+            }
+          ]
+      },
+      {
+          "ID": "1070",
+          "Direction": 0,
+          "Fares": [
+              {
+              "TicketType": "standard",
+              "Price": 790
+              },
+              {
+              "TicketType": "business",
+              "Price": 1250
+              },
+              {
+              "TicketType": "0.5",
+              "Price": 395
+              },
+              {
+              "TicketType": "0.65",
+              "Price": 510
+              },
+              {
+              "TicketType": "0.7",
+              "Price": 550
+              },
+              {
+              "TicketType": "0.8",
+              "Price": 630
+              },
+              {
+              "TicketType": "0.85",
+              "Price": 670
+              },
+              {
+              "TicketType": "0.9",
+              "Price": 710
+              }
+          ]
+      }
+    ]     
+  },
+  {
+    "OriginStationID": "1043",
+    "DesrinationStations" : [
+      {
+        "ID": "0990",
+        "Direction": 1,
+        "Fares": [
+          {
+            "TicketType": "standard",
+            "Price": 870
+          },
+          {
+            "TicketType": "business",
+            "Price": 1355
+          },
+          {
+            "TicketType": "0.5",
+            "Price": 435
+          },
+          {
+            "TicketType": "0.65",
+            "Price": 565
+          },
+          {
+            "TicketType": "0.7",
+            "Price": 605
+          },
+          {
+            "TicketType": "0.8",
+            "Price": 695
+          },
+          {
+            "TicketType": "0.85",
+            "Price": 735
+          },
+          {
+            "TicketType": "0.9",
+            "Price": 780
+          }
+        ]
+      },
+      {
+        "ID": "1000",
+        "Direction": 1,
+        "Fares": [
+          {
+            "TicketType": "standard",
+            "Price": 820
+          },
+          {
+            "TicketType": "business",
+            "Price": 1285
+          },
+          {
+            "TicketType": "0.5",
+            "Price": 410
+          },
+          {
+            "TicketType": "0.65",
+            "Price": 530
+          },
+          {
+            "TicketType": "0.7",
+            "Price": 570
+          },
+          {
+            "TicketType": "0.8",
+            "Price": 655
+          },
+          {
+            "TicketType": "0.85",
+            "Price": 735
+          },
+          {
+            "TicketType": "0.9",
+            "Price": 780
+          }
+        ]
+      },
+      {
+        "ID": "1010",
+        "Direction": 1,
+        "Fares": [
+          {
+            "TicketType": "standard",
+            "Price": 790
+          },
+          {
+            "TicketType": "business",
+            "Price": 1250
+          },
+          {
+            "TicketType": "0.5",
+            "Price": 395
+          },
+          {
+            "TicketType": "0.65",
+            "Price": 510
+          },
+          {
+            "TicketType": "0.7",
+            "Price": 550
+          },
+          {
+            "TicketType": "0.8",
+            "Price": 630
+          },
+          {
+            "TicketType": "0.85",
+            "Price": 670
+          },
+          {
+            "TicketType": "0.9",
+            "Price": 710
+          }
+        ]
+      },
+      {
+        "ID": "1020",
+        "Direction": 1,
+        "Fares": [
+          {
+            "TicketType": "standard",
+            "Price": 670
+          },
+          {
+            "TicketType": "business",
+            "Price": 1085
+          },
+          {
+            "TicketType": "0.5",
+            "Price": 335
+          },
+          {
+            "TicketType": "0.65",
+            "Price": 435
+          },
+          {
+            "TicketType": "0.7",
+            "Price": 465
+          },
+          {
+            "TicketType": "0.8",
+            "Price": 535
+          },
+          {
+            "TicketType": "0.85",
+            "Price": 565
+          },
+          {
+            "TicketType": "0.9",
+            "Price": 600
+          }
+        ]
+      },
+      {
+        "ID": "1030",
+        "Direction": 1,
+        "Fares": [
+          {
+            "TicketType": "standard",
+            "Price": 540
+          },
+          {
+            "TicketType": "business",
+            "Price": 905
+          },
+          {
+            "TicketType": "0.5",
+            "Price": 270
+          },
+          {
+            "TicketType": "0.65",
+            "Price": 350
+          },
+          {
+            "TicketType": "0.7",
+            "Price": 375
+          },
+          {
+            "TicketType": "0.8",
+            "Price": 430
+          },
+          {
+            "TicketType": "0.85",
+            "Price": 455
+          },
+          {
+            "TicketType": "0.9",
+            "Price": 485
+          }
+        ]
+      },
+      {
+        "ID": "1035",
+        "Direction": 1,
+        "Fares": [
+          {
+            "TicketType": "standard",
+            "Price": 390
+          },
+          {
+            "TicketType": "business",
+            "Price": 710
+          },
+          {
+            "TicketType": "0.5",
+            "Price": 195
+          },
+          {
+            "TicketType": "0.65",
+            "Price": 250
+          },
+          {
+            "TicketType": "0.7",
+            "Price": 270
+          },
+          {
+            "TicketType": "0.8",
+            "Price": 310
+          },
+          {
+            "TicketType": "0.85",
+            "Price": 330
+          },
+          {
+            "TicketType": "0.9",
+            "Price": 350
+          }
+        ]
+      },
+      {
+        "ID": "1040",
+        "Direction": 1,
+        "Fares": [
+          {
+            "TicketType": "standard",
+            "Price": 130
+          },
+          {
+            "TicketType": "business",
+            "Price": 360
+          },
+          {
+            "TicketType": "0.5",
+            "Price": 65
+          },
+          {
+            "TicketType": "0.65",
+            "Price": 80
+          },
+          {
+            "TicketType": "0.7",
+            "Price": 90
+          },
+          {
+            "TicketType": "0.8",
+            "Price": 100
+          },
+          {
+            "TicketType": "0.85",
+            "Price": 110
+          },
+          {
+            "TicketType": "0.9",
+            "Price": 115
+          }
+        ]
+      },
+      {
+        "ID": "1047",
+        "Direction": 0,
+        "Fares": [
+          {
+            "TicketType": "standard",
+            "Price": 110
+          },
+          {
+            "TicketType": "business",
+            "Price": 330
+          },
+          {
+            "TicketType": "0.5",
+            "Price": 55
+          },
+          {
+            "TicketType": "0.65",
+            "Price": 70
+          },
+          {
+            "TicketType": "0.7",
+            "Price": 75
+          },
+          {
+            "TicketType": "0.8",
+            "Price": 85
+          },
+          {
+            "TicketType": "0.85",
+            "Price": 90
+          },
+          {
+            "TicketType": "0.9",
+            "Price": 95
+          }
+        ]
+      },
+      {
+        "ID": "1050",
+        "Direction": 0,
+        "Fares": [
+          {
+            "TicketType": "standard",
+            "Price": 250
+          },
+          {
+            "TicketType": "business",
+            "Price": 520
+          },
+          {
+            "TicketType": "0.5",
+            "Price": 125
+          },
+          {
+            "TicketType": "0.65",
+            "Price": 160
+          },
+          {
+            "TicketType": "0.7",
+            "Price": 175
+          },
+          {
+            "TicketType": "0.8",
+            "Price": 200
+          },
+          {
+            "TicketType": "0.85",
+            "Price": 210
+          },
+          {
+            "TicketType": "0.9",
+            "Price": 225
+          }
+        ]
+      },
+      {
+        "ID": "1060",
+        "Direction": 0,
+        "Fares": [
+          {
+            "TicketType": "standard",
+            "Price": 530
+          },
+          {
+            "TicketType": "business",
+            "Price": 900
+          },
+          {
+            "TicketType": "0.5",
+            "Price": 265
+          },
+          {
+            "TicketType": "0.65",
+            "Price": 340
+          },
+          {
+            "TicketType": "0.7",
+            "Price": 370
+          },
+          {
+            "TicketType": "0.8",
+            "Price": 420
+          },
+          {
+            "TicketType": "0.85",
+            "Price": 450
+          },
+          {
+            "TicketType": "0.9",
+            "Price": 475
+          }
+        ]
+      },
+      {
+        "ID": "1070",
+        "Direction": 0,
+        "Fares": [
+            {
+            "TicketType": "standard",
+            "Price": 670
+            },
+            {
+            "TicketType": "business",
+            "Price": 1085
+            },
+            {
+            "TicketType": "0.5",
+            "Price": 335
+            },
+            {
+            "TicketType": "0.65",
+            "Price": 435
+            },
+            {
+            "TicketType": "0.7",
+            "Price": 465
+            },
+            {
+            "TicketType": "0.8",
+            "Price": 535
+            },
+            {
+            "TicketType": "0.85",
+            "Price": 565
+            },
+            {
+            "TicketType": "0.9",
+            "Price": 600
+            }
+        ]
+      }
+    ]     
+  },
+  {
+    "OriginStationID": "1047",
+    "DesrinationStations" : [
+      {
+        "ID": "0990",
+        "Direction": 1,
+        "Fares": [
+          {
+            "TicketType": "standard",
+            "Price": 970
+          },
+          {
+            "TicketType": "business",
+            "Price": 1490
+          },
+          {
+            "TicketType": "0.5",
+            "Price": 485
+          },
+          {
+            "TicketType": "0.65",
+            "Price": 630
+          },
+          {
+            "TicketType": "0.7",
+            "Price": 675
+          },
+          {
+            "TicketType": "0.8",
+            "Price": 775
+          },
+          {
+            "TicketType": "0.85",
+            "Price": 820
+          },
+          {
+            "TicketType": "0.9",
+            "Price": 870
+          }
+        ]
+      },
+      {
+        "ID": "1000",
+        "Direction": 1,
+        "Fares": [
+          {
+            "TicketType": "standard",
+            "Price": 930
+          },
+          {
+            "TicketType": "business",
+            "Price": 1440
+          },
+          {
+            "TicketType": "0.5",
+            "Price": 465
+          },
+          {
+            "TicketType": "0.65",
+            "Price": 600
+          },
+          {
+            "TicketType": "0.7",
+            "Price": 650
+          },
+          {
+            "TicketType": "0.8",
+            "Price": 740
+          },
+          {
+            "TicketType": "0.85",
+            "Price": 790
+          },
+          {
+            "TicketType": "0.9",
+            "Price": 835
+          }
+        ]
+      },
+      {
+        "ID": "1010",
+        "Direction": 1,
+        "Fares": [
+          {
+            "TicketType": "standard",
+            "Price": 900
+          },
+          {
+            "TicketType": "business",
+            "Price": 1395
+          },
+          {
+            "TicketType": "0.5",
+            "Price": 450
+          },
+          {
+            "TicketType": "0.65",
+            "Price": 585
+          },
+          {
+            "TicketType": "0.7",
+            "Price": 630
+          },
+          {
+            "TicketType": "0.8",
+            "Price": 720
+          },
+          {
+            "TicketType": "0.85",
+            "Price": 765
+          },
+          {
+            "TicketType": "0.9",
+            "Price": 810
+          }
+        ]
+      },
+      {
+        "ID": "1020",
+        "Direction": 1,
+        "Fares": [
+          {
+            "TicketType": "standard",
+            "Price": 780
+          },
+          {
+            "TicketType": "business",
+            "Price": 1230
+          },
+          {
+            "TicketType": "0.5",
+            "Price": 390
+          },
+          {
+            "TicketType": "0.65",
+            "Price": 505
+          },
+          {
+            "TicketType": "0.7",
+            "Price": 545
+          },
+          {
+            "TicketType": "0.8",
+            "Price": 620
+          },
+          {
+            "TicketType": "0.85",
+            "Price": 660
+          },
+          {
+            "TicketType": "0.9",
+            "Price": 700
+          }
+        ]
+      },
+      {
+        "ID": "1030",
+        "Direction": 1,
+        "Fares": [
+          {
+            "TicketType": "standard",
+            "Price": 640
+          },
+          {
+            "TicketType": "business",
+            "Price": 1040
+          },
+          {
+            "TicketType": "0.5",
+            "Price": 320
+          },
+          {
+            "TicketType": "0.65",
+            "Price": 415
+          },
+          {
+            "TicketType": "0.7",
+            "Price": 445
+          },
+          {
+            "TicketType": "0.8",
+            "Price": 510
+          },
+          {
+            "TicketType": "0.85",
+            "Price": 540
+          },
+          {
+            "TicketType": "0.9",
+            "Price": 575
+          }
+        ]
+      },
+      {
+        "ID": "1035",
+        "Direction": 1,
+        "Fares": [
+          {
+            "TicketType": "standard",
+            "Price": 500
+          },
+          {
+            "TicketType": "business",
+            "Price": 855
+          },
+          {
+            "TicketType": "0.5",
+            "Price": 250
+          },
+          {
+            "TicketType": "0.65",
+            "Price": 325
+          },
+          {
+            "TicketType": "0.7",
+            "Price": 350
+          },
+          {
+            "TicketType": "0.8",
+            "Price": 400
+          },
+          {
+            "TicketType": "0.85",
+            "Price": 425
+          },
+          {
+            "TicketType": "0.9",
+            "Price": 450
+          }
+        ]
+      },
+      {
+        "ID": "1040",
+        "Direction": 1,
+        "Fares": [
+          {
+            "TicketType": "standard",
+            "Price": 230
+          },
+          {
+            "TicketType": "business",
+            "Price": 495
+          },
+          {
+            "TicketType": "0.5",
+            "Price": 115
+          },
+          {
+            "TicketType": "0.65",
+            "Price": 145
+          },
+          {
+            "TicketType": "0.7",
+            "Price": 160
+          },
+          {
+            "TicketType": "0.8",
+            "Price": 180
+          },
+          {
+            "TicketType": "0.85",
+            "Price": 195
+          },
+          {
+            "TicketType": "0.9",
+            "Price": 205
+          }
+        ]
+      },
+      {
+        "ID": "1043",
+        "Direction": 1,
+        "Fares": [
+          {
+            "TicketType": "standard",
+            "Price": 110
+          },
+          {
+            "TicketType": "business",
+            "Price": 330
+          },
+          {
+            "TicketType": "0.5",
+            "Price": 55
+          },
+          {
+            "TicketType": "0.65",
+            "Price": 70
+          },
+          {
+            "TicketType": "0.7",
+            "Price": 75
+          },
+          {
+            "TicketType": "0.8",
+            "Price": 85
+          },
+          {
+            "TicketType": "0.85",
+            "Price": 90
+          },
+          {
+            "TicketType": "0.9",
+            "Price": 95
+          }
+        ]
+      },
+      {
+        "ID": "1050",
+        "Direction": 0,
+        "Fares": [
+          {
+            "TicketType": "standard",
+            "Price": 150
+          },
+          {
+            "TicketType": "business",
+            "Price": 385
+          },
+          {
+            "TicketType": "0.5",
+            "Price": 75
+          },
+          {
+            "TicketType": "0.65",
+            "Price": 95
+          },
+          {
+            "TicketType": "0.7",
+            "Price": 105
+          },
+          {
+            "TicketType": "0.8",
+            "Price": 120
+          },
+          {
+            "TicketType": "0.85",
+            "Price": 125
+          },
+          {
+            "TicketType": "0.9",
+            "Price": 135
+          }
+        ]
+      },
+      {
+        "ID": "1060",
+        "Direction": 0,
+        "Fares": [
+          {
+            "TicketType": "standard",
+            "Price": 420
+          },
+          {
+            "TicketType": "business",
+            "Price": 745
+          },
+          {
+            "TicketType": "0.5",
+            "Price": 210
+          },
+          {
+            "TicketType": "0.65",
+            "Price": 270
+          },
+          {
+            "TicketType": "0.7",
+            "Price": 290
+          },
+          {
+            "TicketType": "0.8",
+            "Price": 335
+          },
+          {
+            "TicketType": "0.85",
+            "Price": 355
+          },
+          {
+            "TicketType": "0.9",
+            "Price": 375
+          }
+        ]
+      },
+      {
+        "ID": "1070",
+        "Direction": 0,
+        "Fares": [
+            {
+            "TicketType": "standard",
+            "Price": 560
+            },
+            {
+            "TicketType": "business",
+            "Price": 935
+            },
+            {
+            "TicketType": "0.5",
+            "Price": 280
+            },
+            {
+            "TicketType": "0.65",
+            "Price": 360
+            },
+            {
+            "TicketType": "0.7",
+            "Price": 390
+            },
+            {
+            "TicketType": "0.8",
+            "Price": 445
+            },
+            {
+            "TicketType": "0.85",
+            "Price": 475
+            },
+            {
+            "TicketType": "0.9",
+            "Price": 500
+            }
+        ]
+      }
+    ]     
+  },
+  {
+    "OriginStationID": "1050",
+    "DesrinationStations" : [
+      {
+        "ID": "0990",
+        "Direction": 1,
+        "Fares": [
+          {
+            "TicketType": "standard",
+            "Price": 1120
+          },
+          {
+            "TicketType": "business",
+            "Price": 1690
+          },
+          {
+            "TicketType": "0.5",
+            "Price": 560
+          },
+          {
+            "TicketType": "0.65",
+            "Price": 725
+          },
+          {
+            "TicketType": "0.7",
+            "Price": 780
+          },
+          {
+            "TicketType": "0.8",
+            "Price": 895
+          },
+          {
+            "TicketType": "0.85",
+            "Price": 950
+          },
+          {
+            "TicketType": "0.9",
+            "Price": 1005
+          }
+        ]
+      },
+      {
+        "ID": "1000",
+        "Direction": 1,
+        "Fares": [
+          {
+            "TicketType": "standard",
+            "Price": 1080
+          },
+          {
+            "TicketType": "business",
+            "Price": 1635
+          },
+          {
+            "TicketType": "0.5",
+            "Price": 540
+          },
+          {
+            "TicketType": "0.65",
+            "Price": 700
+          },
+          {
+            "TicketType": "0.7",
+            "Price": 755
+          },
+          {
+            "TicketType": "0.8",
+            "Price": 860
+          },
+          {
+            "TicketType": "0.85",
+            "Price": 915
+          },
+          {
+            "TicketType": "0.9",
+            "Price": 970
+          }
+        ]
+      },
+      {
+        "ID": "1010",
+        "Direction": 1,
+        "Fares": [
+          {
+            "TicketType": "standard",
+            "Price": 1050
+          },
+          {
+            "TicketType": "business",
+            "Price": 1600
+          },
+          {
+            "TicketType": "0.5",
+            "Price": 525
+          },
+          {
+            "TicketType": "0.65",
+            "Price": 680
+          },
+          {
+            "TicketType": "0.7",
+            "Price": 735
+          },
+          {
+            "TicketType": "0.8",
+            "Price": 840
+          },
+          {
+            "TicketType": "0.85",
+            "Price": 890
+          },
+          {
+            "TicketType": "0.9",
+            "Price": 945
+          }
+        ]
+      },
+      {
+        "ID": "1020",
+        "Direction": 1,
+        "Fares": [
+          {
+            "TicketType": "standard",
+            "Price": 920
+          },
+          {
+            "TicketType": "business",
+            "Price": 1420
+          },
+          {
+            "TicketType": "0.5",
+            "Price": 460
+          },
+          {
+            "TicketType": "0.65",
+            "Price": 595
+          },
+          {
+            "TicketType": "0.7",
+            "Price": 640
+          },
+          {
+            "TicketType": "0.8",
+            "Price": 735
+          },
+          {
+            "TicketType": "0.85",
+            "Price": 780
+          },
+          {
+            "TicketType": "0.9",
+            "Price": 825
+          }
+        ]
+      },
+      {
+        "ID": "1030",
+        "Direction": 1,
+        "Fares": [
+          {
+            "TicketType": "standard",
+            "Price": 790
+          },
+          {
+            "TicketType": "business",
+            "Price": 1250
+          },
+          {
+            "TicketType": "0.5",
+            "Price": 395
+          },
+          {
+            "TicketType": "0.65",
+            "Price": 510
+          },
+          {
+            "TicketType": "0.7",
+            "Price": 550
+          },
+          {
+            "TicketType": "0.8",
+            "Price": 630
+          },
+          {
+            "TicketType": "0.85",
+            "Price": 670
+          },
+          {
+            "TicketType": "0.9",
+            "Price": 710
+          }
+        ]
+      },
+      {
+        "ID": "1035",
+        "Direction": 1,
+        "Fares": [
+          {
+            "TicketType": "standard",
+            "Price": 640
+          },
+          {
+            "TicketType": "business",
+            "Price": 1040
+          },
+          {
+            "TicketType": "0.5",
+            "Price": 320
+          },
+          {
+            "TicketType": "0.65",
+            "Price": 415
+          },
+          {
+            "TicketType": "0.7",
+            "Price": 445
+          },
+          {
+            "TicketType": "0.8",
+            "Price": 510
+          },
+          {
+            "TicketType": "0.85",
+            "Price": 540
+          },
+          {
+            "TicketType": "0.9",
+            "Price": 575
+          }
+        ]
+      },
+      {
+        "ID": "1040",
+        "Direction": 1,
+        "Fares": [
+          {
+            "TicketType": "standard",
+            "Price": 380
+          },
+          {
+            "TicketType": "business",
+            "Price": 690
+          },
+          {
+            "TicketType": "0.5",
+            "Price": 190
+          },
+          {
+            "TicketType": "0.65",
+            "Price": 245
+          },
+          {
+            "TicketType": "0.7",
+            "Price": 265
+          },
+          {
+            "TicketType": "0.8",
+            "Price": 300
+          },
+          {
+            "TicketType": "0.85",
+            "Price": 320
+          },
+          {
+            "TicketType": "0.9",
+            "Price": 340
+          }
+        ]
+      },
+      {
+        "ID": "1043",
+        "Direction": 1,
+        "Fares": [
+          {
+            "TicketType": "standard",
+            "Price": 250
+          },
+          {
+            "TicketType": "business",
+            "Price": 520
+          },
+          {
+            "TicketType": "0.5",
+            "Price": 125
+          },
+          {
+            "TicketType": "0.65",
+            "Price": 160
+          },
+          {
+            "TicketType": "0.7",
+            "Price": 175
+          },
+          {
+            "TicketType": "0.8",
+            "Price": 200
+          },
+          {
+            "TicketType": "0.85",
+            "Price": 210
+          },
+          {
+            "TicketType": "0.9",
+            "Price": 225
+          }
+        ]
+      },
+      {
+        "ID": "1047",
+        "Direction": 1,
+        "Fares": [
+          {
+            "TicketType": "standard",
+            "Price": 150
+          },
+          {
+            "TicketType": "business",
+            "Price": 385
+          },
+          {
+            "TicketType": "0.5",
+            "Price": 75
+          },
+          {
+            "TicketType": "0.65",
+            "Price": 95
+          },
+          {
+            "TicketType": "0.7",
+            "Price": 105
+          },
+          {
+            "TicketType": "0.8",
+            "Price": 120
+          },
+          {
+            "TicketType": "0.85",
+            "Price": 125
+          },
+          {
+            "TicketType": "0.9",
+            "Price": 135
+          }
+        ]
+      },
+      {
+        "ID": "1060",
+        "Direction": 0,
+        "Fares": [
+          {
+            "TicketType": "standard",
+            "Price": 280
+          },
+          {
+            "TicketType": "business",
+            "Price": 555
+          },
+          {
+            "TicketType": "0.5",
+            "Price": 140
+          },
+          {
+            "TicketType": "0.65",
+            "Price": 180
+          },
+          {
+            "TicketType": "0.7",
+            "Price": 195
+          },
+          {
+            "TicketType": "0.8",
+            "Price": 220
+          },
+          {
+            "TicketType": "0.85",
+            "Price": 235
+          },
+          {
+            "TicketType": "0.9",
+            "Price": 250
+          }
+        ]
+      },
+      {
+        "ID": "1070",
+        "Direction": 0,
+        "Fares": [
+            {
+            "TicketType": "standard",
+            "Price": 410
+            },
+            {
+            "TicketType": "business",
+            "Price": 735
+            },
+            {
+            "TicketType": "0.5",
+            "Price": 205
+            },
+            {
+            "TicketType": "0.65",
+            "Price": 265
+            },
+            {
+            "TicketType": "0.7",
+            "Price": 285
+            },
+            {
+            "TicketType": "0.8",
+            "Price": 325
+            },
+            {
+            "TicketType": "0.85",
+            "Price": 345
+            },
+            {
+            "TicketType": "0.9",
+            "Price": 365
+            }
+        ]
+      }
+    ]     
+  },
+  {
+    "OriginStationID": "1060",
+    "DesrinationStations" : [
+      {
+        "ID": "0990",
+        "Direction": 1,
+        "Fares": [
+          {
+            "TicketType": "standard",
+            "Price": 1390
+          },
+          {
+            "TicketType": "business",
+            "Price": 2060
+          },
+          {
+            "TicketType": "0.5",
+            "Price": 695
+          },
+          {
+            "TicketType": "0.65",
+            "Price": 900
+          },
+          {
+            "TicketType": "0.7",
+            "Price": 970
+          },
+          {
+            "TicketType": "0.8",
+            "Price": 1110
+          },
+          {
+            "TicketType": "0.85",
+            "Price": 1180
+          },
+          {
+            "TicketType": "0.9",
+            "Price": 1250
+          }
+        ]
+      },
+      {
+        "ID": "1000",
+        "Direction": 1,
+        "Fares": [
+          {
+            "TicketType": "standard",
+            "Price": 1350
+          },
+          {
+            "TicketType": "business",
+            "Price": 2005
+          },
+          {
+            "TicketType": "0.5",
+            "Price": 675
+          },
+          {
+            "TicketType": "0.65",
+            "Price": 875
+          },
+          {
+            "TicketType": "0.7",
+            "Price": 945
+          },
+          {
+            "TicketType": "0.8",
+            "Price": 1080
+          },
+          {
+            "TicketType": "0.85",
+            "Price": 1145
+          },
+          {
+            "TicketType": "0.9",
+            "Price": 1215
+          }
+        ]
+      },
+      {
+        "ID": "1010",
+        "Direction": 1,
+        "Fares": [
+          {
+            "TicketType": "standard",
+            "Price": 1320
+          },
+          {
+            "TicketType": "business",
+            "Price": 1960
+          },
+          {
+            "TicketType": "0.5",
+            "Price": 660
+          },
+          {
+            "TicketType": "0.65",
+            "Price": 855
+          },
+          {
+            "TicketType": "0.7",
+            "Price": 920
+          },
+          {
+            "TicketType": "0.8",
+            "Price": 1055
+          },
+          {
+            "TicketType": "0.85",
+            "Price": 1120
+          },
+          {
+            "TicketType": "0.9",
+            "Price": 1185
+          }
+        ]
+      },
+      {
+        "ID": "1020",
+        "Direction": 1,
+        "Fares": [
+          {
+            "TicketType": "standard",
+            "Price": 1190
+          },
+          {
+            "TicketType": "business",
+            "Price": 1790
+          },
+          {
+            "TicketType": "0.5",
+            "Price": 595
+          },
+          {
+            "TicketType": "0.65",
+            "Price": 770
+          },
+          {
+            "TicketType": "0.7",
+            "Price": 830
+          },
+          {
+            "TicketType": "0.8",
+            "Price": 950
+          },
+          {
+            "TicketType": "0.85",
+            "Price": 1010
+          },
+          {
+            "TicketType": "0.9",
+            "Price": 1070
+          }
+        ]
+      },
+      {
+        "ID": "1030",
+        "Direction": 1,
+        "Fares": [
+          {
+            "TicketType": "standard",
+            "Price": 1060
+          },
+          {
+            "TicketType": "business",
+            "Price": 1610
+          },
+          {
+            "TicketType": "0.5",
+            "Price": 530
+          },
+          {
+            "TicketType": "0.65",
+            "Price": 685
+          },
+          {
+            "TicketType": "0.7",
+            "Price": 740
+          },
+          {
+            "TicketType": "0.8",
+            "Price": 845
+          },
+          {
+            "TicketType": "0.85",
+            "Price": 900
+          },
+          {
+            "TicketType": "0.9",
+            "Price": 950
+          }
+        ]
+      },
+      {
+        "ID": "1035",
+        "Direction": 1,
+        "Fares": [
+          {
+            "TicketType": "standard",
+            "Price": 920
+          },
+          {
+            "TicketType": "business",
+            "Price": 1420
+          },
+          {
+            "TicketType": "0.5",
+            "Price": 460
+          },
+          {
+            "TicketType": "0.65",
+            "Price": 595
+          },
+          {
+            "TicketType": "0.7",
+            "Price": 640
+          },
+          {
+            "TicketType": "0.8",
+            "Price": 735
+          },
+          {
+            "TicketType": "0.85",
+            "Price": 780
+          },
+          {
+            "TicketType": "0.9",
+            "Price": 825
+          }
+        ]
+      },
+      {
+        "ID": "1040",
+        "Direction": 1,
+        "Fares": [
+          {
+            "TicketType": "standard",
+            "Price": 650
+          },
+          {
+            "TicketType": "business",
+            "Price": 1060
+          },
+          {
+            "TicketType": "0.5",
+            "Price": 325
+          },
+          {
+            "TicketType": "0.65",
+            "Price": 420
+          },
+          {
+            "TicketType": "0.7",
+            "Price": 455
+          },
+          {
+            "TicketType": "0.8",
+            "Price": 520
+          },
+          {
+            "TicketType": "0.85",
+            "Price": 550
+          },
+          {
+            "TicketType": "0.9",
+            "Price": 585
+          }
+        ]
+      },
+      {
+        "ID": "1043",
+        "Direction": 1,
+        "Fares": [
+          {
+            "TicketType": "standard",
+            "Price": 530
+          },
+          {
+            "TicketType": "business",
+            "Price": 900
+          },
+          {
+            "TicketType": "0.5",
+            "Price": 265
+          },
+          {
+            "TicketType": "0.65",
+            "Price": 340
+          },
+          {
+            "TicketType": "0.7",
+            "Price": 370
+          },
+          {
+            "TicketType": "0.8",
+            "Price": 420
+          },
+          {
+            "TicketType": "0.85",
+            "Price": 450
+          },
+          {
+            "TicketType": "0.9",
+            "Price": 475
+          }
+        ]
+      },
+      {
+        "ID": "1047",
+        "Direction": 1,
+        "Fares": [
+          {
+            "TicketType": "standard",
+            "Price": 420
+          },
+          {
+            "TicketType": "business",
+            "Price": 745
+          },
+          {
+            "TicketType": "0.5",
+            "Price": 210
+          },
+          {
+            "TicketType": "0.65",
+            "Price": 270
+          },
+          {
+            "TicketType": "0.7",
+            "Price": 290
+          },
+          {
+            "TicketType": "0.8",
+            "Price": 335
+          },
+          {
+            "TicketType": "0.85",
+            "Price": 355
+          },
+          {
+            "TicketType": "0.9",
+            "Price": 375
+          }
+        ]
+      },
+      {
+        "ID": "1050",
+        "Direction": 1,
+        "Fares": [
+          {
+            "TicketType": "standard",
+            "Price": 280
+          },
+          {
+            "TicketType": "business",
+            "Price": 555
+          },
+          {
+            "TicketType": "0.5",
+            "Price": 140
+          },
+          {
+            "TicketType": "0.65",
+            "Price": 180
+          },
+          {
+            "TicketType": "0.7",
+            "Price": 195
+          },
+          {
+            "TicketType": "0.8",
+            "Price": 220
+          },
+          {
+            "TicketType": "0.85",
+            "Price": 235
+          },
+          {
+            "TicketType": "0.9",
+            "Price": 250
+          }
+        ]
+      },
+      {
+        "ID": "1070",
+        "Direction": 0,
+        "Fares": [
+            {
+            "TicketType": "standard",
+            "Price": 140
+            },
+            {
+            "TicketType": "business",
+            "Price": 365
+            },
+            {
+            "TicketType": "0.5",
+            "Price": 70
+            },
+            {
+            "TicketType": "0.65",
+            "Price": 90
+            },
+            {
+            "TicketType": "0.7",
+            "Price": 95
+            },
+            {
+            "TicketType": "0.8",
+            "Price": 110
+            },
+            {
+            "TicketType": "0.85",
+            "Price": 115
+            },
+            {
+            "TicketType": "0.9",
+            "Price": 125
+            }
+        ]
+      }
+    ]     
+  },
+  {
+    "OriginStationID": "1070",
+    "DesrinationStations" : [
+      {
+        "ID": "0990",
+        "Direction": 1,
+        "Fares": [
+          {
+          "TicketType": "standard",
+          "Price": 1530
+          },
+          {
+          "TicketType": "business",
+          "Price": 2250
+          },
+          {
+          "TicketType": "0.5",
+          "Price": 765
+          },
+          {
+          "TicketType": "0.65",
+          "Price": 990
+          },
+          {
+          "TicketType": "0.7",
+          "Price": 1070
+          },
+          {
+          "TicketType": "0.8",
+          "Price": 1220
+          },
+          {
+          "TicketType": "0.85",
+          "Price": 1300
+          },
+          {
+          "TicketType": "0.9",
+          "Price": 1375
+          }
+        ]
+      },
+      {
+        "ID": "1000",
+        "Direction": 1,
+        "Fares": [
+          {
+          "TicketType": "standard",
+          "Price": 1490
+          },
+          {
+          "TicketType": "business",
+          "Price": 2195
+          },
+          {
+          "TicketType": "0.5",
+          "Price": 745
+          },
+          {
+          "TicketType": "0.65",
+          "Price": 965
+          },
+          {
+          "TicketType": "0.7",
+          "Price": 1040
+          },
+          {
+          "TicketType": "0.8",
+          "Price": 1190
+          },
+          {
+          "TicketType": "0.85",
+          "Price": 1265
+          },
+          {
+          "TicketType": "0.9",
+          "Price": 1340
+          }
+        ]
+      },
+      {
+        "ID": "1010",
+        "Direction": 1,
+        "Fares": [
+          {
+          "TicketType": "standard",
+          "Price": 1460
+          },
+          {
+          "TicketType": "business",
+          "Price": 2150
+          },
+          {
+          "TicketType": "0.5",
+          "Price": 730
+          },
+          {
+          "TicketType": "0.65",
+          "Price": 945
+          },
+          {
+          "TicketType": "0.7",
+          "Price": 1020
+          },
+          {
+          "TicketType": "0.8",
+          "Price": 1165
+          },
+          {
+          "TicketType": "0.85",
+          "Price": 1240
+          },
+          {
+          "TicketType": "0.9",
+          "Price": 1310
+          }
+        ]
+      },
+      {
+        "ID": "1020",
+        "Direction": 1,
+        "Fares": [
+          {
+          "TicketType": "standard",
+          "Price": 1330
+          },
+          {
+          "TicketType": "business",
+          "Price": 1980
+          },
+          {
+          "TicketType": "0.5",
+          "Price": 665
+          },
+          {
+          "TicketType": "0.65",
+          "Price": 860
+          },
+          {
+          "TicketType": "0.7",
+          "Price": 930
+          },
+          {
+          "TicketType": "0.8",
+          "Price": 1060
+          },
+          {
+          "TicketType": "0.85",
+          "Price": 1130
+          },
+          {
+          "TicketType": "0.9",
+          "Price": 1195
+          }
+        ]
+      },
+      {
+        "ID": "1030",
+        "Direction": 1,
+        "Fares": [
+          {
+          "TicketType": "standard",
+          "Price": 1200
+          },
+          {
+          "TicketType": "business",
+          "Price": 1800
+          },
+          {
+          "TicketType": "0.5",
+          "Price": 600
+          },
+          {
+          "TicketType": "0.65",
+          "Price": 780
+          },
+          {
+          "TicketType": "0.7",
+          "Price": 840
+          },
+          {
+          "TicketType": "0.8",
+          "Price": 960
+          },
+          {
+          "TicketType": "0.85",
+          "Price": 1020
+          },
+          {
+          "TicketType": "0.9",
+          "Price": 1080
+          }
+        ]
+      },
+      {
+        "ID": "1035",
+        "Direction": 1,
+        "Fares": [
+          {
+          "TicketType": "standard",
+          "Price": 1060
+          },
+          {
+          "TicketType": "business",
+          "Price": 1610
+          },
+          {
+          "TicketType": "0.5",
+          "Price": 530
+          },
+          {
+          "TicketType": "0.65",
+          "Price": 685
+          },
+          {
+          "TicketType": "0.7",
+          "Price": 740
+          },
+          {
+          "TicketType": "0.8",
+          "Price": 845
+          },
+          {
+          "TicketType": "0.85",
+          "Price": 900
+          },
+          {
+          "TicketType": "0.9",
+          "Price": 950
+          }
+        ]
+      },
+      {
+        "ID": "1040",
+        "Direction": 1,
+        "Fares": [
+          {
+          "TicketType": "standard",
+          "Price": 790
+          },
+          {
+          "TicketType": "business",
+          "Price": 1250
+          },
+          {
+          "TicketType": "0.5",
+          "Price": 395
+          },
+          {
+          "TicketType": "0.65",
+          "Price": 510
+          },
+          {
+          "TicketType": "0.7",
+          "Price": 550
+          },
+          {
+          "TicketType": "0.8",
+          "Price": 630
+          },
+          {
+          "TicketType": "0.85",
+          "Price": 670
+          },
+          {
+          "TicketType": "0.9",
+          "Price": 710
+          }
+        ]
+      },
+      {
+        "ID": "1043",
+        "Direction": 1,
+        "Fares": [
+          {
+          "TicketType": "standard",
+          "Price": 670
+          },
+          {
+          "TicketType": "business",
+          "Price": 1085
+          },
+          {
+          "TicketType": "0.5",
+          "Price": 335
+          },
+          {
+          "TicketType": "0.65",
+          "Price": 435
+          },
+          {
+          "TicketType": "0.7",
+          "Price": 465
+          },
+          {
+          "TicketType": "0.8",
+          "Price": 535
+          },
+          {
+          "TicketType": "0.85",
+          "Price": 565
+          },
+          {
+          "TicketType": "0.9",
+          "Price": 600
+          }
+        ]
+      },
+      {
+        "ID": "1047",
+        "Direction": 1,
+        "Fares": [
+          {
+          "TicketType": "standard",
+          "Price": 560
+          },
+          {
+          "TicketType": "business",
+          "Price": 935
+          },
+          {
+          "TicketType": "0.5",
+          "Price": 280
+          },
+          {
+          "TicketType": "0.65",
+          "Price": 360
+          },
+          {
+          "TicketType": "0.7",
+          "Price": 390
+          },
+          {
+          "TicketType": "0.8",
+          "Price": 445
+          },
+          {
+          "TicketType": "0.85",
+          "Price": 475
+          },
+          {
+          "TicketType": "0.9",
+          "Price": 500
+          }
+        ]
+      },
+      {
+        "ID": "1050",
+        "Direction": 1,
+        "Fares": [
+          {
+          "TicketType": "standard",
+          "Price": 410
+          },
+          {
+          "TicketType": "business",
+          "Price": 735
+          },
+          {
+          "TicketType": "0.5",
+          "Price": 205
+          },
+          {
+          "TicketType": "0.65",
+          "Price": 265
+          },
+          {
+          "TicketType": "0.7",
+          "Price": 285
+          },
+          {
+          "TicketType": "0.8",
+          "Price": 325
+          },
+          {
+          "TicketType": "0.85",
+          "Price": 345
+          },
+          {
+          "TicketType": "0.9",
+          "Price": 365
+          }
+        ]
+      },
+      {
+        "ID": "1060",
+        "Direction": 1,
+        "Fares": [
+            {
+            "TicketType": "standard",
+            "Price": 140
+            },
+            {
+            "TicketType": "business",
+            "Price": 365
+            },
+            {
+            "TicketType": "0.5",
+            "Price": 70
+            },
+            {
+            "TicketType": "0.65",
+            "Price": 90
+            },
+            {
+            "TicketType": "0.7",
+            "Price": 95
+            },
+            {
+            "TicketType": "0.8",
+            "Price": 110
+            },
+            {
+            "TicketType": "0.85",
+            "Price": 115
+            },
+            {
+            "TicketType": "0.9",
+            "Price": 125
+            }
+        ]
+      }
+    ]     
+  }
+]

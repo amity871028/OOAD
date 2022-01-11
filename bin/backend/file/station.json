@@ -1,0 +1,98 @@
+[
+  {
+    "StationID": "0990",
+    "StationName": {
+      "Zh_tw": "南港",
+      "En": "Nangang"
+    },
+    "StationAddress": "台北市南港區南港路一段313號"
+  },
+  {
+    "StationID": "1047",
+    "StationName": {
+      "Zh_tw": "雲林",
+      "En": "Yunlin"
+    },
+    "StationAddress": "雲林縣虎尾鎮站前東路301號"
+  },
+  {
+    "StationID": "1043",
+    "StationName": {
+      "Zh_tw": "彰化",
+      "En": "Changhua"
+    },
+    "StationAddress": "彰化縣田中鎮站區路二段99號"
+  },
+  {
+    "StationID": "1000",
+    "StationName": {
+      "Zh_tw": "台北",
+      "En": "Taipei"
+    },
+    "StationAddress": "台北市北平西路3號"
+  },
+  {
+    "StationID": "1010",
+    "StationName": {
+      "Zh_tw": "板橋",
+      "En": "Banciao"
+    },
+    "StationAddress": "新北市板橋區縣民大道二段7號"
+  },
+  {
+    "StationID": "1020",
+    "StationName": {
+      "Zh_tw": "桃園",
+      "En": "Taoyuan"
+    },
+    "StationAddress": "桃園市中壢區高鐵北路一段6號"
+  },
+  {
+    "StationID": "1030",
+    "StationName": {
+      "Zh_tw": "新竹",
+      "En": "Hsinchu"
+    },
+    "StationAddress": "新竹縣竹北市高鐵七路6號"
+  },
+  {
+    "StationID": "1040",
+    "StationName": {
+      "Zh_tw": "台中",
+      "En": "Taichung"
+    },
+    "StationAddress": "台中市烏日區站區二路8號"
+  },
+  {
+    "StationID": "1050",
+    "StationName": {
+      "Zh_tw": "嘉義",
+      "En": "Chiayi"
+    },
+    "StationAddress": "嘉義縣太保市高鐵西路168號"
+  },
+  {
+    "StationID": "1060",
+    "StationName": {
+      "Zh_tw": "台南",
+      "En": "Tainan"
+    },
+    "StationAddress": "台南市歸仁區歸仁大道100號"
+  },
+  {
+    "StationID": "1070",
+    "StationName": {
+      "Zh_tw": "左營",
+      "En": "Zuoying"
+    },
+    "StationAddress": "高雄市左營區高鐵路105號"
+  },
+  {
+    "StationID": "1035",
+    "StationName": {
+      "Zh_tw": "苗栗",
+      "En": "Miaoli"
+    },
+    "StationAddress": "苗栗縣後龍鎮高鐵三路268號"
+  }
+]
